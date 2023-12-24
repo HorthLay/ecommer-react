@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ecommer-react/static/css/main.b78fcb6d.css",
-    "main.js": "/ecommer-react/static/js/main.a80f42ce.js",
+    "main.js": "/ecommer-react/static/js/main.4f492b50.js",
     "static/js/787.f444a9d1.chunk.js": "/ecommer-react/static/js/787.f444a9d1.chunk.js",
     "index.html": "/ecommer-react/index.html",
     "main.b78fcb6d.css.map": "/ecommer-react/static/css/main.b78fcb6d.css.map",
-    "main.a80f42ce.js.map": "/ecommer-react/static/js/main.a80f42ce.js.map",
+    "main.4f492b50.js.map": "/ecommer-react/static/js/main.4f492b50.js.map",
     "787.f444a9d1.chunk.js.map": "/ecommer-react/static/js/787.f444a9d1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b78fcb6d.css",
-    "static/js/main.a80f42ce.js"
+    "static/js/main.4f492b50.js"
   ]
 }
