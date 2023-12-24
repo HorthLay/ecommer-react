@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Belanosima:wght@400;600&family=Dela+Gothic+One&family=Inter:wght@300;500&family=Mooli&family=Nunito:ital,wght@0,300;0,400;0,700;1,200&family=Poppins:wght@200;400;500;600;700&family=Raleway:ital,wght@0,100;0,300;1,300;1,600&family=Rubik:ital,wght@0,300;0,600;1,500;1,600&display=swap');
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif ;
+    box-sizing: border-box;
+    transition: 0.5s;
+}
+.free 
+{
+    padding: 10px 30px;
+    width: 100%;
+    background: #010f1c;
+    display: flex;
+}
+.free .icon
+{
+    color: #f3b123;
+    font-size: 32px;
+}
+.free p{
+    margin-left: 10px;
+    color: #f6f7f9;
+    margin-top: 8px;
+    font-size: 14px;
+    font-weight: 600;
+}
+.logo img
+{
+    width: 80px;
+    height: 60px;
+}
+.main_header
+{
+    padding: 30px 40px;
+    width: 100%;
+    border-bottom: 1px solid #010f1c ;
+}
+.main_header .container
+{
+    display: flex;
+    justify-content: space-between;
+}
+.main_header .container .search_box
+{
+    margin-right: 30px;
+}
+.main_header .container .search_box input
+{
+    outline: none;
+    padding: 10px 23px;
+    border: 3px solid #0989ff;
+    width: 300px;
+    border-radius: 300px;
+    color: #010f1c;
+}
+.main_header .container .search_box button
+{
+    border: none;
+    outline: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    background: #0989ff;
+    color: #ecf2f7;
+    border-radius: 300px;
+}
+.main_header .container .icon
+{
+    display: flex;
+    margin-right: 50px;
+}
+.main_header .container .icon .account
+{
+   display: flex;
+   margin-right: 30px;
+}
+.main_header .container .icon .account .user_icon
+{
+    margin-right: 10px;
+    font-size: 22px;
+    color: #010f1c;
+    cursor: pointer;
+}
+.main_header .container .icon .account p
+{
+    margin-right: 5px;
+    margin-top: 2px
+}
+.main_header .container .icon  .second_icon
+{
+    display: flex;
+}
+.main_header .container .icon .second_icon .link
+{
+    margin-right: 5px;
+    font-size: 22px;
+    cursor: pointer;
+    color: #0989ff;
+}
+.header {
+    width: 100%;
+    padding: 20px 30px;
+    box-shadow: rgba(0, 0,0, 0.35) 0px 5px 15px;
+}
+.header .container
+{
+    display: flex;
+    max-width: 100%;
+    justify-content:space-between ;
+}
+.header .container .nav ul
+{
+    display: flex;
+}
+.header .container .nav ul li
+{
+    margin-left: 20px;
+    list-style: none;
+}
+.header .container .nav ul li .link{
+    text-decoration: none;
+    color: #010f1c;
+}
+.header .container .nav ul li .link:hover
+{
+    color: #0989ff;
+}
+.header .container .auth
+{
+    margin-right: 20px;
+    font-size: 22px;
+    cursor: pointer;
+}
+.header .container .auth button
+{
+    margin-right: 22px;
+    font-size: 22px;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    background: none;
+}
